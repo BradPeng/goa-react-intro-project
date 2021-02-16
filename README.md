@@ -1,4 +1,5 @@
 # Game of Apps Mini React Project
+Project worked on in June 2020
 
 This is a quick website I build using ReactJS in preparation for a summer internship as a web developer.
 Going into the project, I was familiar with HTML, CSS and JavaScript, but had not heard of React. So I took this opportunity

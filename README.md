@@ -11,3 +11,5 @@ A few other tools were used for this job:
 - [Yarn](https://yarnpkg.com/) was used a my package manager
 - [Styled Components](https://styled-components.com/) was used to more easily incorportate CSS styles into the React components. 
 - And of course, [ReactJS](https://reactjs.org/) was used to build essentially all of the site's user interface. 
+
+This project can be run with yarn installed with the command ```yarn start```.
